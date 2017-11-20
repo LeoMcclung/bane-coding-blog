@@ -1,0 +1,33 @@
+{
+  "name": "bane-coding-blog",
+  "version": "1.0.0",
+  "description": "a coding blog made by bane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaishinn/bane-coding-blog.git"
+  },
+  "keywords": [
+    "bane"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaishinn/bane-coding-blog/issues"
+  },
+  "homepage": "https://github.com/xaishinn/bane-coding-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "knex": "^0.14.1",
+    "method-override": "^2.3.10",
+    "nodemon": "^1.12.1",
+    "pg": "^7.4.0",
+    "postgresql": "0.0.1"
+  }
+}
